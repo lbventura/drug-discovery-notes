@@ -23,3 +23,7 @@ notation, simple molecules, aromatic rings, and all-trans β-carotene with rende
 structures and executable examples. Open it in a Jupyter-capable editor, select
 the Python interpreter from the `drug-discovery-notes` micromamba environment,
 and run all cells.
+
+[Good and bad controls](notebooks/good-and-bad-controls.ipynb) translates Carlos
+Cinelli’s R crash course into Python, with causal diagrams and regression examples
+for Models 1–18 plus the variation of Model 11.
